@@ -11,3 +11,10 @@ The PAYLOADS are:
 3] Mac Payload     | 7] Bash Payload
                    |
 4] Linux Paylaod   | 8] Perl
+
+
+
+------------------------------Install-Hacksploit-----------------------------------
+
+git clone https://github.com/Pentesting-Lab/Hacksploit.git
+cd Hacksploit
