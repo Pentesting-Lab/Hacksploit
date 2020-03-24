@@ -11,4 +11,3 @@ The PAYLOADS are:
 3] Mac Payload     | 7] Bash Payload
                    |
 4] Linux Paylaod   | 8] Perl
-
