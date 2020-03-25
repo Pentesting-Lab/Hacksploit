@@ -15,7 +15,7 @@ echo -e "
 "
 
 echo -ne 'Installing on your system...\r'
-cp Hacksploit /usr/bin/hacksploit
+cp Hacksploit.sh /usr/bin/hacksploit
 sleep 2
 echo -e "\e[1;32m
 
