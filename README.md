@@ -16,8 +16,6 @@ The PAYLOADS are:
 
 ------------------------------Install-Hacksploit-----------------------------------
 
-
-----------------------------------------------------ss-------------------------------
 git clone https://github.com/Pentesting-Lab/Hacksploit.git
 
 cd Hacksploit
