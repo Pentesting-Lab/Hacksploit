@@ -2,6 +2,7 @@
 A tool makes the Metasploit Payloads Easier and faster
 Contains 8 payloads. Very Faster and Easier than ever. This will also save the time
 
+{Version 3.1 has only 9 payloads but some are different}
 The PAYLOADS are:
 ```
 1] Android Payload | 5] Windows 7 Hunting with IP (SMB=ms08_netapi)  | 9] HTA Exploit Windows with Link
