@@ -1,16 +1,16 @@
-# Hacksploit
+# Hacksploit Version 3.1
 A tool makes the Metasploit Payloads Easier and faster
 Contains 8 payloads. Very Faster and Easier than ever. This will also save the time
 
 The PAYLOADS are:
 ```
-1] Android Payload | 5] Windows 7 Hunting with IP (SMB=ms08_netapi)  | 9] Remote Desktop (ms17_010_eternalblue)
-                   |                                                 | 10] Exploit Windows Vista/XP/2000/2003 ONLY by IP (ms17_010_psexec) 
-2] Windows Payload | 6] Python Payload                               |
+1] Android Payload | 5] Windows 7 Hunting with IP (SMB=ms08_netapi)  | 9] HTA Exploit Windows with Link
+                   |                                                 |  
+2] Windows Payload | 6] PHP Payload                                  |
                    |                                                 |
-3] Mac Payload     | 7] Bash Payload                                 |
+3] Mac Payload     | 7] Remote Desktop (ms17_010_eternalblue)        |
                    |                                                 |
-4] Linux Paylaod   | 8] Perl                                         |
+4] Linux Paylaod   | 8] Exploit Windows ONLY by IP (ms17_010_psexec) | <--Vista/XP/2000/2003
 ```
 
 
