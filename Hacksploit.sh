@@ -1,7 +1,7 @@
 echo "
     ╦ ╦┌─┐┌─┐┬┌─┌─┐┌─┐┬  ┌─┐┬┌┬┐
     ╠═╣├─┤│  ├┴┐└─┐├─┘│  │ ││ │   (Linux)
-    ╩ ╩┴ ┴└─┘┴ ┴└─┘┴  ┴─┘└─┘┴ ┴   (By Pratik (My Github account: Pentesting-Lab))
+    ╩ ╩┴ ┴└─┘┴ ┴└─┘┴  ┴─┘└─┘┴ ┴   (By Pratik(My Github account: Pentesting-Lab))
 
 "
 echo "NOTE: we will keep the default port as 4444"
