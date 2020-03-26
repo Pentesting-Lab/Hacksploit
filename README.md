@@ -91,3 +91,5 @@ After you should send the payload to victim he will be hacked. Meterpreter sessi
 meterpreter>
 ~~~
 So now you can type help for more commands.
+
+For more information on payloads and etc... please visit https://github.com/Pentesting-Lab/Hacksploit/wiki/Hacksploit-Home
